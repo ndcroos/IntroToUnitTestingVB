@@ -2,7 +2,7 @@
 
 This code is a Visual Basic transtaltion of "Intron to Unit Testing in C# using Xunit" by Tim Corey.
 
-The original code, and video tutorial can be found at https://www.youtube.com/watch?v=ub3P8c87cwk
+The original code, and video tutorial can be found on [Tim's Youtube Channel]https://www.youtube.com/watch?v=ub3P8c87cwk
 
 This code translation has been done by Steve Teece, with the permission of Tim Corey.
 
