@@ -1,6 +1,6 @@
 # Introduction to Unit Testing (VB)
 
-This code is a Visual Basic transtaltion of "Intron to Unit Testing in C# using Xunit" by Tim Corey.
+This code is a Visual Basic transtaltion of "Intro to Unit Testing in C# using Xunit" by Tim Corey.
 
 The original code, and video tutorial can be found on [Tim's Youtube Channel](https://www.youtube.com/watch?v=ub3P8c87cwk)
 
