@@ -20,7 +20,17 @@
 
     Public Function Divide(x As Double, y As Double) As Double
 
-        Return x / y
+        If y <> 0 Then
+
+
+            Return x / y
+        Else
+
+            ' Custom business logic for Divide by Zero.
+            Return 0
+
+        End If
+
 
     End Function
 
