@@ -123,6 +123,7 @@
     <Content Include="PersonText.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="SampleCode.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DemoLibrary\DemoLibrary.vbproj">
